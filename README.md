@@ -13,7 +13,7 @@ npm run dev
 ## 実装の説明
 - todoはjotaiで管理されていて、src/routes/home/atoms.tsにて宣言されています。
 - アプリにはホーム画面と404の画面のみあります。
-- Todoを追加したら、TodoがTodo Listに追加されます。その後にチェックマークを押すと、Finished Todosに入ります。
+- Todoを追加（add）したら、TodoがTodo Listに追加されます。その後にチェックマークを押すと、Finished Todosに入ります。ゴミ箱ボタンを押すと、Todoは削除されます。
 
 
 ## 動作画面
